@@ -4,7 +4,8 @@ filetype plugin indent on
 
 set mouse=a
 
-set statusline=%t       "tail of the filename
+set statusline=%f       "relative path to filename
+"set statusline+=%t      "tail of the filename
 set statusline+=%h      "help file flag
 set statusline+=%m      "modified flag
 set statusline+=%r      "read only flag

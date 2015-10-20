@@ -4,6 +4,8 @@ filetype plugin indent on
 
 set mouse=a
 
+set cursorline
+
 "set statusline=%f       "relative path to filename
 "set statusline+=%t      "tail of the filename
 "set statusline+=%h      "help file flag

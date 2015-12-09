@@ -5,6 +5,7 @@ filetype plugin indent on
 set mouse=a
 
 set cursorline
+set colorcolumn=80
 
 "set statusline=%f       "relative path to filename
 "set statusline+=%t      "tail of the filename
